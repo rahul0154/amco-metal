@@ -703,7 +703,7 @@ a.simpleCart_empty {
 }
 
 .grid figure p {
-    letter-spacing: 12px;
+    letter-spacing: 8px;
     color: #fff;
     line-height: 2em;
     font-size: 1.1em;
@@ -1142,6 +1142,7 @@ button.close.top_wthree_agile {
 /*-- schedule-bottom --*/
 .schedule-bottom {
     background: #2fdab8;
+    margin-top: 50px;
 }
 .agileits_schedule_bottom_right,.agileinfo_schedule_bottom_left {
     padding: 0;
@@ -1176,7 +1177,7 @@ button.close.top_wthree_agile {
 	text-align:center;
 }
 .w3l_schedule_bottom_right_grid1 i{
-    font-size: 1.5em;
+    font-size: 2.5em;
     color: #2fdab8;
     display: block;
 	
@@ -1367,7 +1368,7 @@ position:relative;
 }
 .snipcart-details {
     text-align: center;
-	margin:0.5em auto 1em;
+	margin:1em auto 1em;
     width:77%;
 }
 .btn-danger.my-cart-btn:focus {
@@ -1389,7 +1390,7 @@ position:relative;
     font-weight: 600;
 }
 .agile_top_brand_left_grid:hover .snipcart-details input.button,.snipcart-details input.button:hover{
-    background:#2fdab8;
+    background:green;
 }
 .product_list_header input.button {
     color: #fff;
@@ -1593,7 +1594,7 @@ button.w3view-cart {
 }
 .men-thumb-item img {
     transition: all 0.5s ease-out 0s;
-    padding: 52px 50px 20px;
+    padding: 25px;
 }
 .men-thumb-item:hover .men-cart-pro {
     opacity: 1;
@@ -1832,9 +1833,9 @@ ul.multi-column-dropdown li a:hover{
     line-height: 3.2em;
 }
 .w3layouts_mail_grid_left2{
-	float:right;
-	width:70%;
-	    text-align: left;
+	text-align: left;
+    padding-left: 80px;
+    margin-top: 25px;
 }
 .w3layouts_mail_grid_left2 h3{
     font-size: 0.9em;
@@ -3516,7 +3517,7 @@ p.w3ls_para {
 		margin-bottom: 0.5em;
 	}
 	.wthree_banner_bottom_grid_three_left1.grid .grid figure p {
-	    letter-spacing: 10px;
+	    letter-spacing: 8px;
 		line-height: 2em;
 		font-size: 0.9em;
 	}
@@ -4039,7 +4040,7 @@ p.w3ls_para {
 		font-size: 1.1em;
 	}
 	.grid figure p {
-		letter-spacing: 6px;
+		letter-spacing: 4px;
 		font-size: 0.9em;
 	}
 	.w3ls_schedule_bottom_right_grid {
