@@ -592,7 +592,7 @@ a.simpleCart_empty {
 .carousel-caption h2, .carousel-caption h3 {
     font-size: 3em;
     font-weight: 300;
-    letter-spacing: 14px;
+    letter-spacing: 10px;
     text-transform: uppercase;
 } 
 .carousel-caption h2 span, .carousel-caption h3 span{
@@ -600,8 +600,8 @@ a.simpleCart_empty {
     color: #2fdab8;
 }
 .carousel-caption p {
-    letter-spacing: 5px;
-    font-size: 1.2em;
+    letter-spacing: 2px;
+    font-size: 1.1em;
     font-weight: 600;
     color: aliceblue;
     margin-top: 2em;
@@ -655,7 +655,7 @@ a.simpleCart_empty {
     background-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%), linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%);
 }
 .carousel-indicators {
-    bottom: 8%;
+    /*bottom: 8%;*/
 }
 /*-- banner --*/
 /*-- //banner-bottom --*/
