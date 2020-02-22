@@ -57,7 +57,6 @@ label{
     font-size: 13px;
     padding: 7px 0;
     letter-spacing: 1px;
-    border-right: 1px solid #464444;
 }
 .header ul li a {
      color: #fff;
@@ -516,9 +515,8 @@ letter-spacing: 2px;
     width: 21%;
 }
 .box_1 {
-    background: #2fdab8;
-    padding: 15px 22px;
-    text-align: center;
+    padding: 5px;
+    text-align: right;
 }
 .box_1 h3 {
     color: #fff;
@@ -552,6 +550,7 @@ a.simpleCart_empty {
     position: inherit;
     min-height:500px!important;
     padding-top:10em;
+    text-align: -webkit-center;
 }
 /*-- banner --*/  
 .carousel .item{    
@@ -601,11 +600,16 @@ a.simpleCart_empty {
     color: #2fdab8;
 }
 .carousel-caption p {
-    letter-spacing: 12px;
+    letter-spacing: 5px;
     font-size: 1.2em;
     font-weight: 600;
-    color: #ffb900;
-    margin-top: 1em;
+    color: aliceblue;
+    margin-top: 2em;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 2px 0px;
+    width: 55%;
+    background: RGBA(0,0,0,0.6);
 }
 .carousel-caption a {
     color: #fff;
@@ -3672,7 +3676,6 @@ p.w3ls_para {
 	}
 	.top_nav_right {
 		float: right;
-		width: 21%;
 		margin-top: 0.5em;
 	}
 	.carousel-caption h2, .carousel-caption h3 {
