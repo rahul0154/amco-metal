@@ -515,7 +515,7 @@ letter-spacing: 2px;
     width: 21%;
 }
 .box_1 {
-    padding: 5px;
+    padding: 15px;
     text-align: right;
 }
 .box_1 h3 {
@@ -4070,7 +4070,7 @@ p.w3ls_para {
 	
 	.logo_agile {
 		text-align: left;
-		margin-top: 1em;
+		/*margin-top: 1em;*/
 		padding: 0;
 		float: left;
 	}
@@ -5037,7 +5037,7 @@ p.w3ls_para {
 		width: 100%;
 	}
 	.logo_agile {
-		margin-top: 1em;
+		/*margin-top: 1em;*/
 		padding: 0;
 		text-align: center;
 		float: none;
