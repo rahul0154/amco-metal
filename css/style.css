@@ -1152,7 +1152,7 @@ button.close.top_wthree_agile {
 .w3ls_schedule_bottom_right_grid{
     padding: 3em 2em;
     background: #fff;
-    margin: 10em 0 0;
+    margin: 11em 0 0;
     width: 90%;
     box-shadow: 5px 0px 10px #19a98c;
 
@@ -5580,7 +5580,7 @@ p.w3ls_para {
 .right{
     float: right;
 }
-.container {
+.pdl-0 {
      padding-left: 0px !important;
 }
 .container-fluid {
