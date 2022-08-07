@@ -64,7 +64,7 @@ label{
 .header ul li i {
     margin-right: 12px;
     top: 2px;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .header-right {
     text-align: right;
@@ -242,7 +242,7 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
     font-size: 17px;
     top: 66px;
     right: 14px;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 
 /*-- header-bot --*/
@@ -263,7 +263,7 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
 	letter-spacing:1px;
 }
 .header-middle form input[type="submit"]{
-    background: url(../images/search.png) no-repeat 4px 0px #2fdab8;
+    background: url(../images/search.png) no-repeat 4px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     width: 11%;
     height: 50px;
     border: none;
@@ -309,7 +309,7 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
     padding: 2px 0px;
     font-size: 1em;
     border-radius: 2px;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     visibility: hidden;
     opacity: 0;
     -o-transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -326,7 +326,7 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
     height: 0;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
-    border-top: 5px solid #2fdab8;
+    border-top: 5px solid linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     position: absolute;
     bottom: -4px;
     left: 21px;
@@ -474,13 +474,13 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
 }
 
 .menu--shylock .menu__link::before {
-	background: #2fdab8;
+	background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 	-webkit-transition-delay: 0.4s;
 	transition-delay: 0.4s;
 }
 
 .menu--shylock .menu__link::after {
-	background: #2fdab8;
+	background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 a.menu__link {
     color: #fff !important;
@@ -506,7 +506,7 @@ letter-spacing: 2px;
 .agile_short_dropdown > li > a:hover{
     color: #fff;
     text-decoration: none;
-    background-color: #2fdab8;
+    background-color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 /*-- //left nav --*/
 .top_nav_right {
@@ -596,7 +596,7 @@ a.simpleCart_empty {
 } 
 .carousel-caption h2 span, .carousel-caption h3 span{
     font-weight: 800;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .carousel-caption p {
     letter-spacing: 5px;
@@ -826,7 +826,7 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
     margin: 0 0 0 -4px;
     font-weight: 700;
     letter-spacing: 1px;
-	background: #2fdab8;
+	background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 	color:#fff;
 }
 .newsright input[type="submit"]:hover{
@@ -852,13 +852,13 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
   font-weight:300;
 }
 .sign-gd ul li,.sign-gd-two ul li {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     line-height: 2em;
     font-size: 14px;
 	list-style-type:none;
 }
 .sign-gd ul li a,.sign-gd-two ul li a{
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     letter-spacing: 1px;
 }
 .sign-gd ul li a:hover,.sign-gd-two ul li a:hover{
@@ -893,10 +893,10 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
 .w3-address-right p{
     margin: 1em 0 0 0;
     font-size: .9em;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .w3-address-right p a{
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     text-decoration: none;
 }
 .w3-address-right p a:hover{
@@ -929,7 +929,7 @@ p.copy-right a{
 	text-decoration:none;
 }
 p.copy-right a:hover{
-color: #2fdab8;	
+color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);	
 }
 .footer-left h2 a {
     font-size: 0.9em;
@@ -939,7 +939,7 @@ color: #2fdab8;
 }
 .footer-left h2 a span {
     padding: 0 10px;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-weight: 600;
 }
 /*-- //footer --*/
@@ -954,7 +954,7 @@ color: #2fdab8;
 }
 .multi-gd-img.multi-gd-text h4  span{
     font-weight:700;
-	color:#2fdab8;
+	color:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .multi-gd-img.multi-gd-text {
     padding: 0;
@@ -988,7 +988,7 @@ color: #2fdab8;
 /*-- input-effect --*/
 .styled-input input:focus ~ label, .styled-input input:valid ~ label,.styled-input textarea:focus ~ label ,.styled-input textarea:valid ~ label{
     font-size: .9em;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     top: -1.3em;
     -webkit-transition: all 0.125s;
 	-moz-transition: all 0.125s; 
@@ -1097,7 +1097,7 @@ font-weight:300;
     color: #fff;
 }
 .modal-body.modal-body-sub_agile input[type="submit"]:hover{
-   background: #2fdab8;
+   background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .modal_body_right.modal_body_right1 img {
     width: 100%;
@@ -1140,7 +1140,7 @@ button.close.top_wthree_agile {
 
 /*-- schedule-bottom --*/
 .schedule-bottom {
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     margin-top: 50px;
 }
 .agileits_schedule_bottom_right,.agileinfo_schedule_bottom_left {
@@ -1177,7 +1177,7 @@ button.close.top_wthree_agile {
 }
 .w3l_schedule_bottom_right_grid1 i{
     font-size: 2.5em;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     display: block;
 	
 }
@@ -1218,7 +1218,7 @@ h3.wthree_text_info span{
 	margin-bottom:30px;
 }
 .new_arrivals h3 span{
-	color:#2fdab8;
+	color:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .new_arrivals p{
 	color:#848484;
@@ -1264,7 +1264,7 @@ position:relative;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  background: #2fdab8;
+  background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .hvr-outline-out:hover{
     background: green;
@@ -1272,7 +1272,7 @@ position:relative;
 .hvr-outline-out:before {
   content: '';
   position: absolute;
-  border: #2fdab8 solid 4px;
+  border: linear-gradient(to bottom right,#425c88 0,#243757 62%); solid 4px;
   top: 0;
   right: 0;
   bottom: 0;
@@ -1379,7 +1379,7 @@ position:relative;
 .snipcart-details input.button {
     font-size: 13px;
     color: #fff;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     text-decoration: none;
     position: relative;
     border: none;
@@ -1478,7 +1478,6 @@ button.w3view-cart {
 }
 .item-info-product {
     text-align: center;
-    margin: 20px 0 0;
 }
 .men-thumb-item::before {
     width: 100%;
@@ -1619,7 +1618,7 @@ button.w3view-cart {
     top: 83.5%;
 }
 .link-product-add-cart:hover {
-    background: #2fdab8 none repeat scroll 0 0;
+    background: linear-gradient(to bottom right,#425c88 0,#243757 62%); none repeat scroll 0 0;
     color: #fff;
 }
 /*-- //effect --*/
@@ -1693,7 +1692,7 @@ a.single-item{
     border-bottom: none;
 }
 .login-right h3 ,.login-bottom h3{
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-size: 22px;
     margin-bottom: 23px;
 }
@@ -1703,7 +1702,7 @@ a.single-item{
     text-decoration: none;
 }
 .sign-in a:hover{
-    color: #2fdab8;	
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);	
 }
 .single-bottom input[type="checkbox"] {
   display: none;
@@ -1721,7 +1720,7 @@ a.single-item{
 	width: 14px;
     height: 14px;
     display: inline-block;
-    border:2px solid #2fdab8;
+    border:2px solid linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     position: absolute;
     left: 0;
     top: 4px;
@@ -1750,7 +1749,7 @@ a.single-item{
     text-decoration: none;
 }
 .login-grids p a:hover{
-    color: #2fdab8;	
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);	
 }
 /*-- //login --*/
 /*-- navigation --*/
@@ -1765,7 +1764,7 @@ ul.multi-column-dropdown li a {
     letter-spacing: 1px;
 }
 ul.multi-column-dropdown li a:hover{
-	color:#2fdab8;
+	color:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .col-sm-3.multi-gd-img {
     padding: 0;
@@ -1842,7 +1841,7 @@ ul.multi-column-dropdown li a:hover{
 }
 .w3layouts_mail_grid_left2 h3{
     font-size: 0.9em;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     margin: 0em 0 0.5em;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -1890,7 +1889,7 @@ color: #545454;
   left: 0;
   right: 0;
   bottom: 0;
-  background:#2fdab8;
+  background:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition-property: transform;
@@ -1939,7 +1938,7 @@ ul.w3_short li {
 	letter-spacing:1px;
 }
 ul.w3_short li a {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     text-decoration: none;
 }
 .services-breadcrumb {
@@ -1977,7 +1976,7 @@ ul.w3_short {
 /*--//about--*/
 /*-- /contact --*/
 h3.tittle {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-size:2em;
     text-align: center;
     text-transform: uppercase;
@@ -2011,7 +2010,7 @@ h3.tittle {
   margin:0 1%;
 }
 .contact-grid-agile-w3 h4 {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-size: 1.3em;
     margin: 20px 0;
     letter-spacing: 1px;
@@ -2044,7 +2043,7 @@ h3.tittle {
     margin-top: 3em;
 }
 .contact-right a:hover {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .contact-right span, .contact-right a {
     font-size: 15px;
@@ -2076,13 +2075,13 @@ h3.tittle {
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 1px;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     color: #fff;
 }
 .contact-right p {
     text-transform: uppercase;
     font-weight: 700;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-size: 1em;
     letter-spacing: 2px;
 	margin-bottom: 0.5em;
@@ -2196,7 +2195,7 @@ ul.bs-glyphicons-list li:hover span {
 }
 h3.icon-subheading {
     font-size: 25px;
-    color: #2fdab8 !important;
+    color: linear-gradient(to bottom right,#425c88 0,#243757 62%); !important;
     margin: 30px 0 15px;
     font-weight: 700
 }
@@ -2391,7 +2390,7 @@ color: #545454;
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
     margin-bottom:1em;
-    color:#2fdab8;
+    color:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     font-weight:700;
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
@@ -2766,7 +2765,7 @@ h2.typoh2{
     -ms-border-radius: 50%;
 }
 .callbacks_here a:after{
-       background:#2fdab8;
+       background:linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 /*-- Slider part Ends Here --*/
 /*-- men-wear --*/
@@ -2946,14 +2945,14 @@ border-bottom: 1px solid #e5e3db;
 }
 
 .products-left i {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 /*-- //treeview --*/
 .css-treeview {
     border: 1px solid #d2d2d2;
 }
 .css-treeview h4,.community-poll h4 {
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     text-align: center;
     background: #f7f7f7;
     padding: 17px 0;
@@ -3004,7 +3003,7 @@ border-bottom: 1px solid #e5e3db;
     width: 18px;
     height: 18px;
 	outline: none;
-  border:3px solid #2fdab8;
+  border:3px solid linear-gradient(to bottom right,#668dd1 0,#243757 62%);
   background: #fff;
 	cursor:pointer;
 }
@@ -3058,7 +3057,7 @@ label.checkbox {
   text-align: center;
 }
 .radio input:checked + i {
-  border:3px solid #2fdab8;
+  border:3px solid linear-gradient(to bottom right,#668dd1 0,#243757 62%);
   background: #fff;
 }
 .swit {
@@ -3090,7 +3089,7 @@ label.checkbox {
     font-weight: 600;
 }
 .swit input[type="submit"]:hover{
-   background:#2fdab8;	
+   background:linear-gradient(to bottom right,#668dd1 0,#243757 62%);	
 }
 ul.social-nav.model-3d-0.footer-social.w3_agile_social.single_page_w3ls {
     float: none;
@@ -3168,7 +3167,7 @@ font-weight: 300;
 .single-right-left h3 {
     text-transform: capitalize;
     font-size: 23px;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     margin: 0;
     letter-spacing: 1px;
     font-weight: 600;
@@ -3277,7 +3276,7 @@ color: #000;
 }
 .bootstrap-tab-text-grid-right ul li a{
     font-size: 1em;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 600;
@@ -3327,7 +3326,7 @@ color: #000;
 .add-review input[type="submit"]{
     outline: none;
     padding: 14px 0;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
     border: none;
     width: 20%;
     font-size: 1em;
@@ -3339,7 +3338,7 @@ color: #000;
     background: #000;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-    background-color: #2fdab8;
+    background-color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 	color:#fff;
 }
 .product-men.single {
@@ -3469,7 +3468,7 @@ p.w3ls_para {
 		font-size: 2em;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 4px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 4px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 15%;
 	}
 	.header-middle form input[type="search"] {
@@ -3659,7 +3658,7 @@ p.w3ls_para {
 		width: 81%;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 4px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 4px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 17%;
 	}
 	.w3layouts_mail_grid_left {
@@ -4096,7 +4095,7 @@ p.w3ls_para {
 		font-size: 13px;
 	}
 	.header-middle form input[type="submit"] {
-	    background: url(../images/search.png) no-repeat 19px 0px #2fdab8;
+	    background: url(../images/search.png) no-repeat 19px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 9%;
 	}
 	.header-middle form input[type="search"] {
@@ -4182,7 +4181,7 @@ p.w3ls_para {
 		font-size: 14px;
 	}
 	.hvr-outline-out:before {
-		border: #2fdab8 solid 2px;
+		border: linear-gradient(to bottom right,#425c88 0,#243757 62%); solid 2px;
 	}
 	.hvr-outline-out:hover:before, .hvr-outline-out:focus:before, .hvr-outline-out:active:before {
 		top: -6px;
@@ -4201,7 +4200,7 @@ p.w3ls_para {
 		margin: 50px 0 17px;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 8px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 8px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 9%;
 	}
 }
@@ -4287,7 +4286,7 @@ p.w3ls_para {
 		padding: 17px 0;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background-color: #2fdab8;
+		background-color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 	}
 	.navbar-default .navbar-toggle .icon-bar {
 		background-color: #FFF;
@@ -4452,7 +4451,7 @@ p.w3ls_para {
 		left: -8px;
 	}
 	.hvr-outline-out:before {
-		border: #2fdab8 solid 4px;
+		border: linear-gradient(to bottom right,#425c88 0,#243757 62%); solid 4px;
 	}
 	.new-gd-middle {
 		width: 100%;
@@ -4553,7 +4552,7 @@ p.w3ls_para {
 		width: 86%;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 8px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 8px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 10%;
 	}
 	.wthree_banner_bottom_grid_three_left1 {
@@ -4814,7 +4813,7 @@ p.w3ls_para {
 		right: 21px;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 8px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 8px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 11%;
 	}
 	.sign-gd, .sign-gd-two {
@@ -5053,7 +5052,7 @@ p.w3ls_para {
 		width: 83%;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 8px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 8px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 14%;
 	}
 	.carousel-caption p {
@@ -5188,7 +5187,7 @@ p.w3ls_para {
        font-size: 14px;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 5px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 5px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 15%;
 		height: 48px;
 	}
@@ -5250,7 +5249,7 @@ p.w3ls_para {
        font-size: 14px;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 5px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 5px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 15%;
 		height: 48px;
 	}
@@ -5434,7 +5433,7 @@ p.w3ls_para {
 		width: 79%;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 7px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 7px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 18%;
 		height: 48px;
 	}
@@ -5496,7 +5495,7 @@ p.w3ls_para {
 		font-size: 14px;
 	}
 	.header-middle form input[type="submit"] {
-		background: url(../images/search.png) no-repeat 0px 0px #2fdab8;
+		background: url(../images/search.png) no-repeat 0px 0px linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 		width: 17%;
 		height: 44px;
 	}
@@ -5575,7 +5574,7 @@ p.w3ls_para {
 .header-links i {
     margin-right: 12px;
     top: 2px;
-    color: #2fdab8;
+    color: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .right{
     float: right;
@@ -5600,7 +5599,7 @@ p.w3ls_para {
 }
 #contact_us_div{
     padding: 30px 0px;
-    background: #2fdab8;
+    background: linear-gradient(to bottom right,#668dd1 0,#243757 62%);
 }
 .colour-blk{
     color: black;
@@ -5622,4 +5621,10 @@ p.w3ls_para {
 }
 #toTopHover{
     opacity: 1;
+}
+.item-description-product{
+    text-align: center;
+    font-size: 0.9em;
+    padding: 1em;
+    height: 250px;
 }
